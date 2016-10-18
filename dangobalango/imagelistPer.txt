@@ -1,0 +1,7 @@
+media/personagens/01.jpg
+media/personagens/02.jpg
+media/personagens/03.jpg
+media/personagens/04.jpg
+media/personagens/05.jpg
+media/personagens/06.jpg
+media/personagens/07.jpg

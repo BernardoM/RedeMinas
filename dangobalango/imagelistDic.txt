@@ -1,0 +1,13 @@
+media/tupi/01.jpg
+media/tupi/02.jpg
+media/tupi/03.jpg
+media/tupi/04.jpg
+media/tupi/05.jpg
+media/tupi/06.jpg
+media/tupi/07.jpg
+media/tupi/08.jpg
+media/tupi/09.jpg
+media/tupi/10.jpg
+media/tupi/11.jpg
+media/tupi/12.jpg
+media/tupi/13.jpg
